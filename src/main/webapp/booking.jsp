@@ -25,7 +25,7 @@ Guest guest = (Guest) session.getAttribute("CurrentGuest");
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="icon" type="image/x-icon" href="./img/WEBSITE ICON 2.png" />
-<title>Atithyam Resort-Bookings</title>
+<title>shivas Resort-Bookings</title>
 <!--        <meta charset="UTF-8" />-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
